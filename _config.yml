@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: A Thought about Life:  Tech, Tunes, Attempts and Turbulations
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: alexanderjburton@gmail.com
+description: "Tech Blog by Alexander Burton."
+baseurl: ""
+url: "PurpIeHaze.github.io"
+twitter_username: PvrpIeHaze
+github_username:  PurpIeHaze
+facebook_username:  
 
 # Build settings
 markdown: kramdown
